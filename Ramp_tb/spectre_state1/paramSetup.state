@@ -1,1 +1,2 @@
- 
+"_EXPR_1" (tran_stop fields "10/VAR(\"fclk\")")
+"_EXPR_3" (tran_step options "0.001/VAR(\"fclk\")")
