@@ -1,4 +1,4 @@
-(envOpts analysisOrder) nil
+(envOpts analysisOrder) ("tran")
 (envOpts autoDisplay) t
 (envOpts bus_delimiter) ""
 (envOpts case_sensitive) "false"
