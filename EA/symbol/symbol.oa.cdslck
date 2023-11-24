@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      rw2955
+HostName                       cadpc05.ee.columbia.edu
+ProcessIdentifier              9289
+ProcessCreationTime_UTC        1700769168
+ProcessCreationTime_Readable   Thu Nov 23 14:52:48 2023 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /homes/user/stud/fall22/rw2955/Cadence/6920-fall2023/virtuoso/6920#2dfall2023/EA/symbol/symbol.oa.cdslck
+TimeEditLocked                 Thu Nov 23 19:40:54 2023 EST

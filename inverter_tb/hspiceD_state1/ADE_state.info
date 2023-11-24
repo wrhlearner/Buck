@@ -1,3 +1,3 @@
-projectDir = '"/user/stud/fall22/rw2955/simulation"
-designInfo = '("6920-fall2023" "inverter_tb" "schematic" "hspiceD")
+projectDir = '"~/simulation"
+designInfo = '("6920-fall2023" "inverter_tb" "schematic" "spectre")
 descriptionText = "None"
