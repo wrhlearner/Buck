@@ -1,0 +1,3 @@
+model pnp1 bjt type=pnp is=1e-14 bf=50 va=-50 br=6 vje=-0.7
+
+model npn1 bjt type=npn is=1e-14 bf=200 va=125 br=6 vje=0.7
