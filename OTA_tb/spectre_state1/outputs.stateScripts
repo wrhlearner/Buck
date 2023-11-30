@@ -131,7 +131,7 @@ list(tmp1 tmp2)
 tmp20 = (let
 (tmp1 tmp2)
 tmp1 = 'simOutputFormat
-tmp2 = "psf"
+tmp2 = "psfxl"
 list(tmp1 tmp2)
 )
 tmp21 = (let
