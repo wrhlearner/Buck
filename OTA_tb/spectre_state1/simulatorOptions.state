@@ -132,7 +132,7 @@
 (opts tempeffects) ""
 (opts title) ""
 (opts tmevthmod) ""
-(opts tnom) "25"
+(opts tnom) "27"
 (opts topcheck) ""
 (opts tranAddtionalArguments) ""
 (opts tranCheckWindows) ""
